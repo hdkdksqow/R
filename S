@@ -46,8 +46,7 @@ CoreGui:SetCore("SendNotification", {
     Title = "脚本名",
     Text = a.."欢迎您",
     Duration = 5,
-})
---脚本
+})66666
       else
   setclipboard(qunh)
   game.Players.LocalPlayer:Kick("请加"..qunh.."获得白名单")
